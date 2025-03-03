@@ -4,7 +4,8 @@
 ---
 
 🌍 From the heart of **Sri Lanka**, exploring the worlds of **tech & music**.  
-💡 Passionate about **clean UI designs** and **massive EDM drops**.  
+🎓 **Software Engineering Undergraduate**, still learning the ropes of **UI/UX design & coding**.  
+💡 Interested in **clean UI designs** and **massive EDM drops**.  
 🚀 Currently learning **Java** while fine-tuning my **DJ skills**.  
 🎯 Working on **Kasun Handmades** and experimenting with **FL Studio projects**.  
 
@@ -34,8 +35,7 @@
   </a>
   <a href="https://www.image-line.com/fl-studio/" target="_blank" rel="noreferrer">
   <img src="https://www.image-line.com/wp-content/uploads/2022/10/cropped-FL-Cherry-noBG-256x256.png" alt="FL Studio" width="40" height="40"/>
-</a>
-
+  </a>
 </p>
 
 ---
@@ -47,12 +47,13 @@
 
 ---
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Dhammika-Zent&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+![Dhammika's github stats](https://github-readme-stats.vercel.app/api?username=Dhammika-Zent&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhammika-Zent&theme=tokyonight)
+![Github Stars](https://github-readme-stats.vercel.app/api?username=Dhammika-Zent&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
+---
 
 ### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhammika%20Senarathna-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dhammika-senarathna)  
