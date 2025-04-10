@@ -4,10 +4,10 @@
 ---
 
 🌍 From the heart of **Sri Lanka**, exploring the worlds of **tech & music**.  
-🎓 **Software Engineering Undergraduate**, still learning the ropes of **UI/UX design & coding**.  
+🎓 **Software Engineering Undergraduate**, still learning the ropes of **UI/UX design, Business analyzing & coding**.  
 💡 Interested in **clean UI designs** and **massive EDM drops**.  
-🚀 Currently learning **Java** while fine-tuning my **DJ skills**.  
-🎯 Working on **Kasun Handmades** and experimenting with **FL Studio projects**.  
+🚀 Currently learning **Javascript** while fine-tuning my **DJ skills**.  
+🎯 Working on **Cey-Fit's Website** and experimenting with **FL Studio projects**.  
 
 ⚡ Fun Fact: _"I debug code and remix beats with the same energy!"_
 
