@@ -1,15 +1,15 @@
 <h1 align="center">🎧 Hi there, I'm Dhammika Zent 👋</h1>
-<h3 align="center">A Beginner UI/UX Developer & Requirement Analyst by Day | Aspiring DJ & Producer by Night 🎶</h3>
 
 ---
 
-🌍 From the heart of **Sri Lanka**, exploring the worlds of **tech & music**.  
-🎓 **Software Engineering Undergraduate**, still learning the ropes of **UI/UX design, Business analyzing & coding**.  
-💡 Interested in **clean UI designs** and **massive EDM drops**.  
-🚀 Currently learning **Javascript** while fine-tuning my **DJ skills**.  
-🎯 Working on **Cey-Fit's Website** and experimenting with **FL Studio projects**.  
+🌴 From Sri Lanka — mixing code and creativity one bug at a time.  
+💻 Software Engineering student still figuring out what “clean code” actually means.  
+🎨 Dabbling in UI/UX, business analysis, and the occasional CSS headache.  
+🎧 Total beginner in music production — currently just making noise in FL Studio.  
+☕ Fuelled by late nights, loud synths, and Stack Overflow.
 
-⚡ Fun Fact: _"I debug code and remix beats with the same energy!"_
+⚡ Fun fact: _"I write spaghetti code and call it ‘experimental.’"_
+
 
 ---
 
@@ -36,14 +36,7 @@
   <a href="https://www.image-line.com/fl-studio/" target="_blank" rel="noreferrer">
   <img src="https://www.image-line.com/wp-content/uploads/2022/10/cropped-FL-Cherry-noBG-256x256.png" alt="FL Studio" width="40" height="40"/>
   </a>
-</p>
-
----
-
-### 🎵 Music & DJing Journey:
-🎼 Producing **Techno, Trance, and House** as **ZENT**.  
-🎧 Hoping to drop **Hyla** & **Shine** tracks soon.  
-🌍 Dreaming of performing at **Tomorrowland** one day!  
+</p>  
 
 ---
 
