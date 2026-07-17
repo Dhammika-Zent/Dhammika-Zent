@@ -43,12 +43,13 @@ Alongside Business Analysis, I develop enterprise desktop and web solutions, ena
 
 ◈ Software Engineering
 
+- HTML
+- CSS
+- JS
 - C#
 - .NET Framework
 - Windows Forms
 - SQL & SQLite
-- HTML
-- CSS
 - Bootstrap
 - Git & GitHub
 
@@ -58,8 +59,6 @@ Alongside Business Analysis, I develop enterprise desktop and web solutions, ena
 
 - SmartMed Pharmacy Management System
 - RouteX Transit Management System
-- Ceylon Spice Bites
-- Cey Fit Portfolio Website
 
 Each repository demonstrates the complete analytical journey from business problem identification through requirements engineering, solution design, implementation and validation.
 
@@ -74,14 +73,6 @@ Each repository demonstrates the complete analytical journey from business probl
 - Product Thinking
 - Process Optimisation
 - Human-Centred Design
-
----
-
-## GitHub Analytics
-
-![Dhammika's github stats](https://github-readme-stats.vercel.app/api?username=Dhammika-Zent&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhammika-Zent&layout=compact&theme=tokyonight)
 
 ---
 
